@@ -15,20 +15,7 @@ lang: en
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Africa/Cairo
 
-plugins:
-  - jekyll-gist
-  - jekyll-coffeescript
-  - jekyll-seo-tag
-  - jekyll-admin
-
-jekyll_admin:
-  hidden_links:
-    - posts
-    - pages
-    - staticfiles
-    - datafiles
-    - configuration
-  homepage: "pages"
+mepage: "pages"
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
