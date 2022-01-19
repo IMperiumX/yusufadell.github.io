@@ -49,7 +49,7 @@ social:
     - https://www.facebook.com/yousefade1
     - https://www.linkedin.com/in/yusufadell
 
-google_site_verification: google-site-verification=n4heTz5TXkVvz7maPpdGLnpAVaN-NQT1Vrc79uIssxM # change to your verification string
+google_site_verification: google-site-verification=xZG-riJIg5FLh9kyCDksPNTJe7NYWl6ds_N0ue2mvSM # change to your verification string
 
 # ↑ --------------------------
 
@@ -71,7 +71,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:  # [light|dark]
+theme_mode: # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
