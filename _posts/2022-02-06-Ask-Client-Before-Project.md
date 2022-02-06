@@ -1,4 +1,12 @@
-
+---
+layout: post
+title: "What to Ask a Client Before You Start Their Project?"
+tags: [freelance]
+categories: [Freelance]
+author:
+    name: Yusuf Adel
+    link: https://yusufadell.web.app
+---
 # What to Ask a Client Before You Start Their Project?
 
 ## We all know the importance of fact-finding before starting any web design project
