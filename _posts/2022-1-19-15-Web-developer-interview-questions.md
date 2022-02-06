@@ -3,6 +3,9 @@ layout: post
 title: "15 Web Developer Interview Questions"
 tags: [Web, Interview]
 categories: [Web development]
+author:
+    name: Yusuf Adel
+    link: https://yusufadell.web.app
 ---
 
 # Advanced Interview Questions
