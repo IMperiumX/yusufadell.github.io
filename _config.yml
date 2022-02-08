@@ -22,11 +22,11 @@ mepage: "pages"
 
 title: Yusuf Adel # the main title
 
-tagline: A Backend Developer Blog # it will display as the sub-title
+tagline: A Software Developer Blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A Blog To Share Ideas I Read From a Book an Article
-  Or A Tool I've been Using Which I Found Interesting To Them Share With you.
+  A blog to share idead i read from a book, an article ot tools i've been using
+  which i found interesting to sahre with you.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://yusufadell.github.io"
@@ -41,14 +41,15 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Yusuf Adel
-  email: youseefadel777@gmail.com # change to your email address
+  email: yusufadell.dev@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/_WHYUSUF # change to your twitter homepage
+    - https://yusufadell.web.app
     - https://github.com/yusufadell # change to your github homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/yousefade1
     - https://www.linkedin.com/in/yusufadell
+    - https://twitter.com/_WHYUSUF # change to your twitter homepage
 
 google_site_verification: google-site-verification=xZG-riJIg5FLh9kyCDksPNTJe7NYWl6ds_N0ue2mvSM # change to your verification string
 
@@ -72,7 +73,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:  # [light|dark]
+theme_mode: dark # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
