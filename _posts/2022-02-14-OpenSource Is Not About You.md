@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Open Source is Not About You"
+tags: [open-source]
+categories: [Tutorial]
+author:
+    name: Yusuf Adel
+    link: https://yusufadell.web.app
+---
 
 Open Source is Not About You
 
