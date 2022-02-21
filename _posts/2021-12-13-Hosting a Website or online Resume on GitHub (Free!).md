@@ -10,9 +10,10 @@ author:
 
 # Hosting a Website or online Resume on GitHub (Free!)
 
+<img style="border-radius: 25px" src="https://github.blog/wp-content/themes/github-2021/assets/img/fallbacks/archive-hero-2.png">
+
 GitHub is not only a great place to store and share your code with others
 but they also offer free web hosting of your HTML, CSS, and JavaScript projects!
-want something like ![yusufadell.github.io](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0gm0uaczdkcnuevojmsk.png) <https://yusufadell.github.io>
 
 **follow these 8 easy steps**
 Firstly you should
