@@ -8,9 +8,11 @@ author:
     link: https://yusufadell.web.app
 ---
 
-# Advanced Interview Questions
+## Advanced Interview Questions
 
-The following will cover the senior web developer interview questions but I suggest you go through them even if you are a fresher or an intermediate web developer candidate
+The following Blog will cover the senior web developer interview questions but I suggest you go through them even if you are a fresher or an intermediate web developer candidate
+
+What are the types of popup boxes present in **JavaScript?**
 
 <img style="border-radius:25px;" src="https://images.pexels.com/photos/5699475/pexels-photo-5699475.jpeg?cs=srgb&dl=pexels-alex-green-5699475.jpg" alt="Advanced Interview Questions">
 
@@ -24,11 +26,6 @@ There are **three** types of dialog boxes, which are used in JavaScript:
 | Confirm | Gives the users a window with **OK** and **Cancel** buttons   |
 | Prompt  | Shows the user input, alongside **OK** and **Cancel** buttons |
 
-# Advanced Interview Questions
-
-The following Blog will cover the senior web developer interview questions but I suggest you go through them even if you are a fresher or an intermediate web developer candidate
-
-What are the types of popup boxes present in **JavaScript?**
 
 <br>
 
