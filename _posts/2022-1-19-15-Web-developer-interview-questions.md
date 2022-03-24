@@ -27,9 +27,7 @@ There are **three** types of dialog boxes, which are used in JavaScript:
 | Prompt  | Shows the user input, alongside **OK** and **Cancel** buttons |
 
 
-<br>
-
-### 1- There are **three** types of dialog boxes, which are used in JavaScript
+## 1- There are **three** types of dialog boxes, which are used in JavaScript
 
 The `<window.onload>` event is not called until a page is completely loaded with the entire styling from CSS and images. The event does add a bit of delay when rendering a web page.
 
@@ -41,7 +39,7 @@ With the `<onDocumentReady>` event, it will wait only till the DOM is initialize
 
 > - This ensures that there are no errors or data type-associated warnings as values get converted to the required data type automatically.
 
-### 3- What is the meaning of the scope of a variable in JavaScript?
+## 3- What is the meaning of the scope of a variable in JavaScript?
 
 **Scope** refers to the accessibility of functions and underlying variables in the running environment. There are two scopes supported in JavaScript:
 
