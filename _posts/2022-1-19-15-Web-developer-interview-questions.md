@@ -8,7 +8,7 @@ author:
     link: https://yusufadell.web.app
 ---
 
-## Advanced Interview Questions
+# Advanced Interview Questions
 
 The following Blog will cover the senior web developer interview questions but I suggest you go through them even if you are a fresher or an intermediate web developer candidate
 
