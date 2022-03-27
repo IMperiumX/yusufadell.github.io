@@ -1,3 +1,13 @@
+---
+layout: post
+title: "What to Ask a Client Before You Start Their Project?"
+tags: [programming, tutorial]
+categories: [Programming]
+author:
+    name: Yusuf Adel
+    link: https://yusufadell.web.app
+---
+
 # How to Learn Any Programming Language
 
 I’m going to teach you how to learn most of the programming languages you may want to learn in
