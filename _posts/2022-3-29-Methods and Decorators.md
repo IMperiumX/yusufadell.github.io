@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Method and Decorators (Part 1)"
-tags: [Python]
-categories: [Programmin]
+tags: [python, programming]
+categories: [Programming]
 author:
     name: Yusuf Adel
     link: https://yusufadell.web.app
