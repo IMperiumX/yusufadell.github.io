@@ -14,7 +14,6 @@ author:
     GitHub is not only a great place to store and share your code with others
     but they also offer free web hosting of your HTML, CSS, and JavaScript projects!
 
-
 **follow these 8 easy steps**
 Firstly you should
 
