@@ -6,7 +6,7 @@ category: [Python]
 layout: post
 author:
     name: Yusuf Adel
-    link: gttps://github.com/yusufadell
+    link: https://github.com/yusufadell
 ---
 
 ## Instance - Static - Class Methods
