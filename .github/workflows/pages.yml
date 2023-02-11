@@ -44,7 +44,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}/imperiumm
+      url: ${{ steps.deployment.outputs.page_url }}imperiumm
     runs-on: ubuntu-latest
     needs: build
     steps:
